@@ -1,17 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
 
-/*struct grupo{
-    int matricula;
-    char nombre[20];
-    char apellidos[30];
-    int calif;
-    int calif_final;
-    char laboratorio [30];
-    int participaciones;
-}alumno;*/
-
-
 int main()
 {
 struct grupo{
